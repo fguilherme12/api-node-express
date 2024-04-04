@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "curso-react-alurabooks",
+			"path": "../../../curso-react-alurabooks"
+		},
+		{
+			"name": "api-alurabooks",
+			"path": "../../../api-alurabooks"
+		}
+	],
+	"settings": {}
+}
